@@ -15,7 +15,7 @@ Student Registration System is a PHP-based web application that allows administr
 ## Installation
 
 1. Clone the repository:
-**git clone https://github.com/lavkush-maurya/Student-Registration-System.git**
+**git clone https://github.com/zonster93/Student-Registration-System-using-PHP-MYSQL**
 
 
 2. Place the project files in your web server's document root directory (e.g., `htdocs` for XAMPP).
