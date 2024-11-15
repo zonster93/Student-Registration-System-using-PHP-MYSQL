@@ -1,6 +1,4 @@
 This is a SRGS (Student Registration System)
-Created by: lavkush maurya
-For queries contact on : lavkushmaurya147@gmail.com 
-Website: https://lavkushgatsby.netlify.app/
-or call: ************
+Created by: Zakir Hussain
+For queries contact on : zakirhussainm2003@gmail.com 
 This is for private use only don't share this with other person
