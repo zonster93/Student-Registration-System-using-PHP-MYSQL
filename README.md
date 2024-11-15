@@ -55,13 +55,8 @@ Contributions to the Student Registration System project are welcome! If you fin
 5. Commit your changes and push them to your forked repository.
 6. Submit a pull request, explaining your changes and providing any relevant information.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-Contact: https://lavkushreactjs.firebaseapp.com/contact
 
-Portfolio Site:  https://lavkush-maurya.github.io/Portfolio/
-If you have any questions or suggestions regarding the Student Registration System project, feel free to contact us at [lavkushmaurya147@gmail.com](mailto:lavkushmaurya147@gmail.com).
+If you have any questions or suggestions regarding the Student Registration System project, feel free to contact us at [zakirhussainm2003@gmail.com]
 
